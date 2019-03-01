@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Best Fuel</string>
+    <string name="gasolina">Price of gasoline liter</string>
+    <string name="etanol">"Price of the liter of ethanol "</string>
+    <string name="oqUsar">"It's better to use ... "</string>
+    <string name="nome_etn">Ethanol</string>
+    <string name="nome_gaso">Gasoline</string>
+</resources>

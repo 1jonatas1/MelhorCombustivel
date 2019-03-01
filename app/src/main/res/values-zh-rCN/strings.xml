@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"最好的可燃物 "</string>
+    <string name="gasolina">"汽油价格升 "</string>
+    <string name="etanol">"一升乙醇的价格 "</string>
+    <string name="oqUsar">"最好使用...... "</string>
+    <string name="nome_etn">"乙醇 "</string>
+    <string name="nome_gaso">汽油</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_padding">12dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="seekbar_height">30dp</dimen>
+    <dimen name="inputTextLayoutWidth">297dp</dimen>
+    <dimen name="inputTextEditLayoutWidth">297dp</dimen>
+    <dimen name="img_height">150dp</dimen>
+    <dimen name="img_width">150dp</dimen>
+    <dimen name="font_size">20sp</dimen>
+</resources>

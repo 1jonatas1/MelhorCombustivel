@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Mejor Combustible "</string>
+    <string name="gasolina">" Precio del litro de la gasolina"</string>
+    <string name="etanol">"Precio del litro del etanol "</string>
+    <string name="oqUsar">"Es mejor usar ... "</string>
+    <string name="nome_etn">Etanol</string>
+    <string name="nome_gaso">Gasolina</string>
+</resources>
